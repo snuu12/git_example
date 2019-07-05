@@ -25,3 +25,5 @@ Contens list:
 	- git pull origin master 
 	- git push orgigin master  (--force)(!!)
 	- git push orgigin -u master (upstream set) domyslne ustawienie sciezki wysylania 
+
+			2
