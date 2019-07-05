@@ -4,7 +4,7 @@ Contens list:
         - git init
         - git stastus
         - git add
-        - git rm --cached
+        - git rm --cached ( czysci pamiec po usunietych plikach )
         - git commit  ( save game )
         - git commit --ammend (zmienia nazwe komentarza)
         - git log ( lista commit)
