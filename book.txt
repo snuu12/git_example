@@ -23,7 +23,7 @@ Contens list:
 	- git add  remote (nazwa) (adres url )    ( dodawanie adresow) 
 	- git remote rm (nazwa)
 	- git pull origin master 
-	- git push orgigin master  (--force)(!!)
+	- git push orgigin master  (--force)(!!)		444
 	- git push orgigin -u master (upstream set) domyslne ustawienie sciezki wysylania 
 
 			2
