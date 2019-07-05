@@ -16,3 +16,9 @@ Contens list:
 	- git stash pop --index 0
 	- git checkout master
 	- git merge (branch_name || orgin/branch_name) 
+	- git breanch -d branch_name 
+	- git branch 
+	- git remote -listowanie 
+	- git remote  -v ( Wypisywaie razem z adresami)
+	- git add  remote (nazwa) (adres url )
+	- git remote rm (nazwa)
