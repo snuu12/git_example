@@ -1,0 +1,8 @@
+
+
+	-mkdir < tworzy nowy katalog 
+	-touch < tworzy nowy plik 
+	-rm    < usuwa plik 
+	-rm -r < usuwa katlok razem z podkatalogami 
+	-ls    < wyswieltla zawartosc folderu
+	
