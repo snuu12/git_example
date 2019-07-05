@@ -5,4 +5,4 @@
 	-rm    < usuwa plik 
 	-rm -r < usuwa katlok razem z podkatalogami 
 	-ls    < wyswieltla zawartosc folderu
-	
+	-cd     < przejscie do innego folderu 	
