@@ -5,20 +5,23 @@ Contens list:
         - git stastus
         - git add
         - git rm --cached
-        - git commit
-        - git commit --ammend
-        - git log
-	- git checkout -- book.txt
-	- git diff
-	- git reset HEAD book.txt
-	- git stash
-	- git checkout -b branch_nam
-	- git stash pop --index 0
-	- git checkout master
-	- git merge (branch_name || orgin/branch_name) 
-	- git breanch -d branch_name 
-	- git branch 
+        - git commit  ( save game )
+        - git commit --ammend (zmienia nazwe komentarza)
+        - git log ( lista commit)
+	- git checkout -- book.txt (jeszcze nie dodany do stanu add albo comita można usunąć zmiany )
+	- git diff- zmiany wpisane na pliku (pokazuje zmieny przed wysłaniem)
+	- git reset HEAD book.txt ( wycyofanie z zielonego stanu )
+	- git stash ( przenosi na półkę ) 
+	- git checkout -b branch_nam ( twrzy nam nową gałąź )
+	- git stash pop --index 0 ( siąga z półki i wrzuca do półki , kolor czerwony ) 
+	- git checkout master ( przełączenie gałęzi ) 
+	- git merge (branch_name || orgin/branch_name) ( łączy gałęzie )  
+	- git breanch -d branch_name ( usuwa gałąź )
+	- git branch-lista branch 
 	- git remote -listowanie 
 	- git remote  -v ( Wypisywaie razem z adresami)
-	- git add  remote (nazwa) (adres url )
+	- git add  remote (nazwa) (adres url )    ( dodawanie adresow) 
 	- git remote rm (nazwa)
+	- git pull origin master 
+	- git push orgigin master  (--force)(!!)
+	- git push orgigin -u master (upstream set) domyslne ustawienie sciezki wysylania 
