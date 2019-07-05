@@ -25,5 +25,10 @@ Contens list:
 	- git pull origin master 
 	- git push orgigin master  (--force)(!!)		444
 	- git push orgigin -u master (upstream set) domyslne ustawienie sciezki wysylania 
-
-			2
+	- git push orgigin master  (--force)(!!)		
+	- git push orgigin -u master (upstream set) domyslne ustawienie sciezki wysylania 
+	- git revert SHA
+	- git revert --about
+	- git revert --countinue
+	- git reset SHA
+	
